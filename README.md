@@ -32,7 +32,7 @@ python3 vigenere_breaker.py <cipherfile> <freqfile> [max_key_len]
 
 ```bash
 # Windows
-env> python vigenere_breaker.py 2977-4.txt frequencia.txt 20
+python vigenere_breaker.py 2977-4.txt frequencia.txt 20
 
 # Linux/macOS
 $ python3 vigenere_breaker.py 2977-4.txt frequencia.txt 20

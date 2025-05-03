@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Quebra a cifra de Vigenère usando análise de Kasiski e de frequência.
 
